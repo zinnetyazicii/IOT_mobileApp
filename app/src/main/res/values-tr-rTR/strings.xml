@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IOT APP</string>
+    <string name="action_language">Dil değiştir</string>
+
+    <string name="name">Ad:</string>
+    <string name="surname">Soyad:</string>
+    <string name="id">ID:</string>
+    <string name="client_id">Device ID:</string>
+
+    <string name="title_activity_personal">Personel</string>
+    <string name="title_activity_time">Saat</string>
+    <string name="title_activity_heart_rate">Nabız:</string>
+    <string name="spo2">SpO2:</string>
+    <string name="temperature">Ateş:</string>
+
+    <string name="title_activity_personal__map">Harıta</string>
+    <string name="title_activity_general__map">Harıta</string>
+    <string name="title_activity_search">Ara</string>
+
+    <string name="title_activity_login">Oturum Aç</string>
+
+
+</resources>

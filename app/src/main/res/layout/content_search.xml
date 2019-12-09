@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".Search"
+    tools:showIn="@layout/activity_search">
+
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="400dp"
+        android:layout_height="61dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="1dp"
+        android:ems="10"
+        android:hint="@string/title_activity_search"
+        android:inputType="textPersonName" />
+
+    <ListView
+        android:id="@+id/searchlist"
+        android:layout_width="400dp"
+        android:layout_height="584dp"
+        android:layout_marginStart="1dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginBottom="12dp"
+        android:paddingBottom="50dp" />
+
+</LinearLayout>

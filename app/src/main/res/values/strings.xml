@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">IOT APP</string>
+    <string name="action_language">Change Language</string>
+
+    <string name="name">Name:</string>
+    <string name="surname">Surname:</string>
+    <string name="id">ID:</string>
+    <string name="client_id">Device ID:</string>
+
+    <string name="title_activity_personal">Employee</string>
+    <string name="title_activity_time">Time:</string>
+    <string name="title_activity_heart_rate">Heart Rate:</string>
+    <string name="spo2">SpO2:</string>
+    <string name="temperature">Temperature:</string>
+
+    <string name="title_activity_personal__map">Map</string>
+    <string name="title_activity_general__map">Map</string>
+    <string name="title_activity_search">Search</string>
+
+    <string name="title_activity_login">Login</string>
+
+</resources>
